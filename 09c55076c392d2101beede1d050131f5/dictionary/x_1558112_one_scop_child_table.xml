@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="1167d0f6c392d2101beede1d05013177" extends="task" label="Child table" max_length="40" name="x_1558112_one_scop_child_table" type="collection">
         <element display="true" label="Child Column1" max_length="40" name="child_column1" type="string"/>
+        <element label="Child column3" max_length="4000" name="child_column3" type="string"/>
         <element label="Child Column2" max_length="40" name="child_column2" type="glide_date"/>
     </element>
 </database>
